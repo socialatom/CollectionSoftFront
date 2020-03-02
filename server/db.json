@@ -1,0 +1,114 @@
+{
+    "dashboard": [
+        {
+            "id": 1,
+            "data": {
+                "test": 1
+            }
+        }
+    ],
+    "staff": [
+        {
+            "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+            "staffProfileId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+            "staffFirstName": "Andres",
+            "staffLastName": "Rojas",
+            "staffEmail": "andres.rojas@holbertonschool.com",
+            "staffCampus": "Cali",
+            "staffPosition": "Software Engineer",
+            "staffProfileImage": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png"
+        }
+    ],
+    "student": [
+        {
+            "id": "12000022-6c54-4b01-90e6-d701748f08",
+            "studentProfileId": "12000022-6c54-4b01-90e6-d701748f08",
+            "studentFirstName": "Laura",
+            "studentLastName": "Martinez",
+            "studentEmail": "lcmartinez15@gmail.com",
+            "studentCampus": "Cali",
+            "studentIdentificationType": "Cedula",
+            "studentIdentificationNumber": "139595930202",
+            "studentAddressLine1": "Cra 40 #333",
+            "studentAddressLine2": "House 223",
+            "studentAddressCity": "Cali",
+            "studentProvince": "Valle del Cauca",
+            "studentAddressPostalCode": "050025",
+            "studentAddressCountry": "Colombia",
+            "studentPhoneNumber": "32323232323",
+            "studentBirthDate": "2017-07-21",
+            "studentProfileImage": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png"
+        }
+    ],
+    "organization": [
+        {
+            "id": 1,
+            "organizationId": 1,
+            "organizationName": "Holberton School Colombia SAS",
+            "organizationAddress": "Cra 33B #22-130"
+        },
+        {
+            "id": 2,
+            "organizationId": 2,
+            "organizationName": "Holberton School Colombia SAS",
+            "organizationAddress": "Cra 33B #22-130"
+        }
+    ],
+    "isaTemplate": [
+        {
+            "id": 1,
+            "program": "Software Developer",
+            "isaCAP": 75000000,
+            "minimumIncome": 3000000,
+            "incomeSharePercentage": 17,
+            "agreementDurationMonths": 21,
+            "monthlyInstallments": 42,
+            "maxContractValidity": 72,
+            "trustFund": "FudiOccidente",
+            "fiduciary": "Fake Fiduciary CO",
+            "fiduciaryGovId": "234234234-nn22",
+            "academyOperator": "Coderise ORG",
+            "academyOperatorGovId": "901.114. 515-1",
+            "operatorEmail": "holberton@coderise.org",
+            "operatorAddress": "Carrera 7 # 69-17, Bogotá, CO",
+            "collectionCompany": "Astorga Management",
+            "collectionCompanyGovId": "2839302023jj",
+            "collectionCompanyEmail": "astorga@astorga.com",
+            "collectionCompanyAddress": "astorga@astorga.com",
+            "organizationId": 1
+        },
+        {
+            "id": 2,
+            "program": "Software Developer",
+            "isaCAP": 75000000,
+            "minimumIncome": 3000000,
+            "incomeSharePercentage": 17,
+            "agreementDurationMonths": 21,
+            "monthlyInstallments": 42,
+            "maxContractValidity": 72,
+            "trustFund": "FudiOccidente",
+            "fiduciary": "Fake Fiduciary CO",
+            "fiduciaryGovId": "234234234-nn22",
+            "academyOperator": "Coderise ORG",
+            "academyOperatorGovId": "901.114. 515-1",
+            "operatorEmail": "holberton@coderise.org",
+            "operatorAddress": "Carrera 7 # 69-17, Bogotá, CO",
+            "collectionCompany": "Astorga Management",
+            "collectionCompanyGovId": "2839302023jj",
+            "collectionCompanyEmail": "astorga@astorga.com",
+            "collectionCompanyAddress": "astorga@astorga.com",
+            "organizationId": 1
+        }
+    ],
+    "isa": [
+        {
+            "id": "1233434k23l",
+            "studentId": "12000022-6c54-4b01-90e6-d701748f08",
+            "isaTemplateId": 1,
+            "campus": "Cali",
+            "cohort": "11",
+            "startDate": "2017-07-21"
+        }
+    ]
+
+}

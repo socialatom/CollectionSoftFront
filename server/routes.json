@@ -1,0 +1,6 @@
+{
+    "/organization/:organizationId/isa/:studentId": "/student/:studentId",
+    "/student/:studentId/isa/:isaId": "/isa/:isaId",
+    "/organization/:organizationId/isaTemplate/:isaTemplateId": "/isaTemplate?id=:isaTemplateId&organizationId=:organizationId",
+    "/organization/:organizationId/isaTemplate": "/isaTemplate?organizationId=:organizationId&_expand=organization"
+}
